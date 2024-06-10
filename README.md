@@ -5,4 +5,4 @@ Los clientes de Beta Bank se están yendo, cada mes, poco a poco. Los banqueros 
 
 Necesitamos predecir si un cliente dejará el banco pronto. Tenemos los datos sobre el comportamiento pasado de los clientes y la terminación de contratos con el banco.
 
-Crearemos un modelo con el máximo valor F1 posible. Necesitamos un valor F1 de al menos 0.59. Verificaremos F1 con el conjunto de prueba. Además, debemos medir la métrica AUC-ROC y compararla con el valor F1.
+Crearemos un modelo con el máximo valor F1 posible. Verificaremos F1 con el conjunto de prueba. Además, debemos medir la métrica AUC-ROC y compararla con el valor F1.
